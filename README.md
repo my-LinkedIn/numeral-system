@@ -6,6 +6,8 @@
 
 ## Problem statement
 
+<p align="center"><img src="problem-statement.jpg"></p>
+
 ## Source code
 
 ```d
