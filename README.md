@@ -4,7 +4,7 @@
 
 ## Problem statement
 
-## Solution output
+## Output
 
 ```text
 Answer:
