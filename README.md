@@ -1,4 +1,4 @@
-# numeral-system
+# Numeral System challenge
 
 ## Credit
 
